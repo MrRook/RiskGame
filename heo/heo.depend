@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1347948396 source:c:\users\harshit\documents\proj\heo\main.c
+	<GL/glut.h>
+	<windows.h>
+
